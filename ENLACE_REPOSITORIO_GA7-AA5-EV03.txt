@@ -1,0 +1,29 @@
+﻿EVIDENCIA DE DESEMPEÑO: GA7-220501096-AA5-EV03
+
+Diseño y desarrollo de servicios web - proyecto
+
+Aprendiz: Mauricio Polo
+
+Repositorio GitHub:
+https://github.com/MauricioPolo306/SIGTAL-API-AA5-EV03
+
+Proyecto:
+SIGTAL - Sistema Integral de Gestión para Taller Automotriz Electricista Londoño
+
+Tecnologías principales:
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Maven
+- Git
+- GitHub
+- Postman
+
+Servicios implementados:
+- Autenticación
+- Clientes y Vehículos
+- Inventario
+
+Evidencia complementaria:
+GA7-220501096-AA5-EV02_Pruebas_API_SIGTAL.pdf
